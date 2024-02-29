@@ -1,0 +1,21 @@
+My project Evalution as follows:
+## Phase 1 - 20 points given ##
+    Classes are created and implemented.
+
+## Phase 2 - 8 points given ##
+    Command Line Interface Functioning according to the plan
+
+
+## Phase 3 - 15 points given ##
+    Order details is Printing in a table for the selected customer
+
+## Phase 4 - 15 points given ## 
+    Product details is printing in a table for the selected Order
+
+## Phase 5 - 6 points given ##
+    Three statistics is printed. Average sales for all orders in the DataSet, Customers per state and Customer per Segment
+
+## Phase 6 - 3 points given ##
+    Sales report is created inside a sales-report.txt file but 'Date' is not implemented
+
+    TOTAL points =  67 points according to the self Evalution

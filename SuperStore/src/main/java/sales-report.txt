@@ -1,0 +1,14 @@
+----------------------------
+Sales report for SuperStore
+----------------------------
+Total sales: 2295273.9243 EUR 
+
+----------------------------
+Average sales: 229.80315621746095 EUR 
+
+----------------------------
+Customers per segment: {Consumer=5190, Corporate=3019, Home Office=1779}
+
+----------------------------
+Customers per state: {North Carolina=247, Indiana=149, Wyoming=1, Utah=53, Arizona=224, Montana=15, Kentucky=139, Kansas=24, California=2001, Delaware=96, Florida=383, Pennsylvania=586, Mississippi=53, Iowa=30, Illinois=490, Texas=985, Connecticut=82, Georgia=184, Maryland=105, Virginia=224, Idaho=21, Vermont=11, Oregon=124, Maine=8, Oklahoma=65, Tennessee=183, Alabama=61, Arkansas=60, South Carolina=42, Washington=506, Nebraska=38, West Virginia=4, Massachusetts=135, Colorado=182, Missouri=66, North Dakota=7, Wisconsin=110, Nevada=39, District of Columbia=10, Rhode Island=56, New York=1128, South Dakota=12, Minnesota=89, New Jersey=130, Michigan=255, New Mexico=37, New Hampshire=27, Louisiana=42, Ohio=469}
+
