@@ -107,7 +107,9 @@ public class SuperStore {
         public static void main(String[] args) {
             SuperStore app = new SuperStore();//create a new SuperStore object
             try {
-                app.loadData("/Users/data_course/Desktop/Programming2/Final-Assgn/2023-wk14-final-exercise-sajibnet90/data/SuperStoreOrders.csv");
+                //app.loadData("../resources/data/SuperStoreOrders.csv");
+                app.loadData("../resources/data/SuperStoreOrders.csv");
+
                 Scanner scanner = new Scanner(System.in);
 
                 Boolean quit= false;
